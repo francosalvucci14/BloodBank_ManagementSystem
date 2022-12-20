@@ -1,0 +1,26 @@
+FRANCESCE FORM1
+utilisateur
+
+ajouter un utilisateur
+
+recherche d'utilisateurs
+
+Supprimer l'utilisateur
+
+exposition
+
+affiche les données des groupes
+
+affiche les données utilisateur
+
+exportation de données
+
+outils
+
+changer de super compte
+
+information système
+
+changer de langue
+
+sortir

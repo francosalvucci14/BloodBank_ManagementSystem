@@ -1,0 +1,6 @@
+
+Open XAMPP>apache>conf>httpd.conf file in notepad
+Search for Listen 80
+Above line would read like- #Listen 0.0.0.0:80 / 12.34.56.78:80
+Change the IP address and replace it with the static IP
+Save the httpd.conf file ensuring that the server is pointed to #Listen 192.168.1.193:80

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBank_ManagementSystem_v2", "BloodBank_ManagementSystem_v2\BloodBank_ManagementSystem_v2.csproj", "{910105A3-05B0-48E5-9104-161D44CF9014}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BloodBank_Setup", "BloodBank_Setup\BloodBank_Setup.vdproj", "{46F96B40-7141-43F9-B471-FEB175E7BC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryKeyTool", "BloodBank_ManagementSystem_v2\Tools\RegistryKeyTool\RegistryKeyTool.csproj", "{8E41C980-4380-45A8-B082-4951563E2B56}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BloodBank_Client", "BloodBank_Client\BloodBank_Client.vdproj", "{B2A932AC-3685-4ADA-8D6D-C1DF91652CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupClient", "SetupClient\SetupClient.csproj", "{4BB034C4-B3E1-4B9F-82C0-9C8E2CBAFC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMailService", "SendMailService\SendMailService.csproj", "{3F4EC6E4-A284-41F6-ACC0-5B20CE3D620D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910105A3-05B0-48E5-9104-161D44CF9014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910105A3-05B0-48E5-9104-161D44CF9014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910105A3-05B0-48E5-9104-161D44CF9014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910105A3-05B0-48E5-9104-161D44CF9014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F96B40-7141-43F9-B471-FEB175E7BC09}.Debug|Any CPU.ActiveCfg = Debug
+		{46F96B40-7141-43F9-B471-FEB175E7BC09}.Release|Any CPU.ActiveCfg = Release
+		{8E41C980-4380-45A8-B082-4951563E2B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E41C980-4380-45A8-B082-4951563E2B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E41C980-4380-45A8-B082-4951563E2B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E41C980-4380-45A8-B082-4951563E2B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A932AC-3685-4ADA-8D6D-C1DF91652CC0}.Debug|Any CPU.ActiveCfg = Debug
+		{B2A932AC-3685-4ADA-8D6D-C1DF91652CC0}.Release|Any CPU.ActiveCfg = Release
+		{4BB034C4-B3E1-4B9F-82C0-9C8E2CBAFC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB034C4-B3E1-4B9F-82C0-9C8E2CBAFC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB034C4-B3E1-4B9F-82C0-9C8E2CBAFC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB034C4-B3E1-4B9F-82C0-9C8E2CBAFC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4EC6E4-A284-41F6-ACC0-5B20CE3D620D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4EC6E4-A284-41F6-ACC0-5B20CE3D620D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4EC6E4-A284-41F6-ACC0-5B20CE3D620D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4EC6E4-A284-41F6-ACC0-5B20CE3D620D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00836CC7-7C6F-4B1D-B4FF-DFBA22D3F3BA}
+	EndGlobalSection
+EndGlobal
